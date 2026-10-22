@@ -15,3 +15,4 @@ struct SwiftUI_Assignment_7App: App {
         }
     }
 }
+
